@@ -4,3 +4,7 @@ uvicorn
 langchain
 openai
 faiss-cpu
+sentence-transformers
+transformers
+huggingface-hub
+
