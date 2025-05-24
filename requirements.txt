@@ -1,9 +1,9 @@
-langchain-community
 fastapi
 uvicorn
 langchain
-faiss-cpu
 sentence-transformers
 transformers
 huggingface-hub
+faiss-cpu
+
 
