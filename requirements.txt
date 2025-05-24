@@ -2,7 +2,6 @@ langchain-community
 fastapi
 uvicorn
 langchain
-openai
 faiss-cpu
 sentence-transformers
 transformers
