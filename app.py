@@ -1,3 +1,4 @@
+from langchain.document_loaders import TextLoader
 import os
 base_dir = os.path.dirname(os.path.abspath(__file__))
 filepath = os.path.join(base_dir, "docs_sample.txt")  # 正しいファイル名に注意
