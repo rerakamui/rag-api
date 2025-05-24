@@ -2,7 +2,7 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.document_loaders import TextLoader
 
-loader = TextLoader("docs/sample.txt")
+loader = TextLoader("docs_sample.txt")
 documents = loader.load()
 
 embeddings = OpenAIEmbeddings()
